@@ -8,6 +8,7 @@ import java.io.*;
 public class Codex
 {
   System.out.println("test1");
+  System.out.println("test2");
   static DateFormat dateFormat;
   
   public static void fileEncrypt(String sourcePath, String destPath, String key)
