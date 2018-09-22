@@ -229,7 +229,7 @@ public class Codex
   }
   private static String finalCipherToCipher(ArrayList<Character> alphabet, String cipherText)
   {
-    String finalCipher = "";
+    String finalCipher = ""; 
     int cycles = cipherText.length();
     cycles *= 9;
     int marker = cycles % 36;
