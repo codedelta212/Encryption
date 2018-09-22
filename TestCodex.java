@@ -13,6 +13,7 @@ public class TestCodex
    
   // Codex.fileEncrypt("C:\\Users\\H1V3\\Desktop\\Files\\file1.txt","C:\\Users\\H1V3\\Desktop\\files\\message1.txt","hellothere");
   // Codex.fileDecrypt("C:\\Users\\H1V3\\Desktop\\Files\\message1.txt","C:\\Users\\H1V3\\Desktop\\files\\file2.txt","hellothere");
-System.out.println("test"); 
+System.out.println("test");
+System.out.println("test2"); 
 }
 }
