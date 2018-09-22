@@ -11,7 +11,8 @@ public class TestCodex
 //   System.out.println("PLAIN: "+plain);
    //System.out.println(Codex.decrypt("CR3A2Z6O2Q7IVU4FPW79VS482Q4LPS3F2S", "thisiskey"));
    
-   Codex.fileEncrypt("C:\\Users\\H1V3\\Desktop\\Files\\file1.txt","C:\\Users\\H1V3\\Desktop\\files\\message1.txt","hellothere");
-   Codex.fileDecrypt("C:\\Users\\H1V3\\Desktop\\Files\\message1.txt","C:\\Users\\H1V3\\Desktop\\files\\file2.txt","hellothere");
- }
+  // Codex.fileEncrypt("C:\\Users\\H1V3\\Desktop\\Files\\file1.txt","C:\\Users\\H1V3\\Desktop\\files\\message1.txt","hellothere");
+  // Codex.fileDecrypt("C:\\Users\\H1V3\\Desktop\\Files\\message1.txt","C:\\Users\\H1V3\\Desktop\\files\\file2.txt","hellothere");
+System.out.println("test"); 
+}
 }
