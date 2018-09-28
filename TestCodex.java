@@ -15,5 +15,6 @@ public class TestCodex
   // Codex.fileDecrypt("C:\\Users\\H1V3\\Desktop\\Files\\message1.txt","C:\\Users\\H1V3\\Desktop\\files\\file2.txt","hellothere");
 System.out.println("test");
 System.out.println("test2"); 
+System.out.println("test3"); 
 }
 }
