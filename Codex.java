@@ -1,3 +1,4 @@
+
 // import java.util.Date;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -11,7 +12,7 @@ public class Codex
   System.out.println("test2");
   System.out.println("test3");
   System.out.println("test4");
-  System.out.println("hello there")
+  System.out.println("Whats going on?");
   static DateFormat dateFormat;
   
   public static void fileEncrypt(String sourcePath, String destPath, String key)
